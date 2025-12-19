@@ -25,16 +25,6 @@ Boolean value `false`:
 console.log(myFalseValue === false); // Logs true (if node.js works and false is false)
 ```
 
-### Tests
-
-Running the tests requires the [Jake JavaScript build
-tool](https://github.com/mde/jake). In the root project directory, run the
-following:
-
-```bash
-$ jake test
-```
-
 ### Contributing
 
 Please feel free to file bugs or suggest improvements here:
