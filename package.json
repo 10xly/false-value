@@ -1,0 +1,26 @@
+{
+  "name": "false-value",
+  "version": "2.0.5",
+  "description": "False",
+  "keywords": [
+    "false"
+  ],
+  "homepage": "https://github.com/js-constant/false-value#readme",
+  "bugs": {
+    "url": "https://github.com/js-constant/false-value/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-constant/false-value.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "true-value": "^2.0.5"
+  }
+}
