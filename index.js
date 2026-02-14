@@ -1,5 +1,3 @@
 var trueValue = require("true-value")
 
-module.exports = function falseValue() {
-  return !trueValue()
-}
+module.exports = require("@not-js/not")(trueValue)
